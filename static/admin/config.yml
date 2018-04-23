@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  reps: rjlowes/netlify-cms-tutorial
 
 media_folder: static/assets
 

@@ -1,3 +1,5 @@
 module.exports = {
-  plugins: ['gatsby-plugin-netlify-cms'],
+  plugins: [{
+    resolve: 'gatsby-plugin-netlify-cms'  
+  }],
 }

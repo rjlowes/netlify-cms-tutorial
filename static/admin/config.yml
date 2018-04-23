@@ -1,6 +1,7 @@
 backend:
   name: github
-  reps: rjlowes/netlify-cms-tutorial
+  repo: rjlowes/netlify-cms-tutorial
+  branch: master
 
 media_folder: static/assets
 
